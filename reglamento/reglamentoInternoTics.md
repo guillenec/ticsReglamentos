@@ -1,10 +1,10 @@
-# Reglamento de Uso de Recursos Informáticos y Electrónicos
+# 📂 Reglamento Interno TICs
 
 ## Objetivo
 
 El presente reglamento tiene como objetivo establecer normas y procedimientos para el uso adecuado de los recursos informáticos y electrónicos en la institución educativa, garantizando su correcto funcionamiento y disponibilidad para todos los usuarios.
 
-## Prestamos de Notebooks
+## 📝 Prestamos de Notebooks
 
 1. **Responsabilidad:**
    - Los docentes serán responsables de solicitar y gestionar el préstamo de notebooks en nombre de los alumnos.
@@ -24,7 +24,7 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
 5. **Registro de Usuarios:**
    - A futuro, se evaluará la creación de usuarios individuales para estudiantes que frecuentemente soliciten notebooks, con la posibilidad de utilizar herramientas de gestión de versiones.
 
-## Prestamos Diarios y Otros Recursos
+## 📆 Prestamos Diarios y Otros Recursos
 
 1. **Registro Informal:**
    - Los préstamos diarios y otros recursos se registrarán de manera informal en un archivo de Google Docs. Este registro debe incluir día, hora, docente, cursos, alumno, recursos solicitados y si fue devuelto.
@@ -32,7 +32,7 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
 2. **Responsabilidad del Docente:**
    - El docente será responsable de la devolución de los recursos diarios a la oficina de tics antes del fin del horario de trabajo.
 
-## Uso de Proyectores y Otros Equipos
+## 🖥 Uso de Proyectores y Otros Equipos
 
 1. **Prioridad para Proyectores:**
    - Los proyectores estarán disponibles para préstamo exclusivo de docentes.
@@ -41,7 +41,7 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
 2. **Cuidado y Devolución:**
    - Los docentes serán responsables del cuidado de los proyectores y deberán devolverlos en el estado en que fueron prestados.
 
-## Sala de Informática y Oficina de Tics
+## 🏫 Sala de Informática y Oficina de TICs
 
 1. **Horarios y Llaves:**
    - La sala de informática y la oficina de tics tendrán horarios específicos de apertura y cierre.
@@ -51,7 +51,7 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
    - Los tics serán responsables del cuidado y carga de las notebooks en la oficina de tics.
    - Los insumos informáticos deberán ser devueltos antes del fin del horario de tics.
 
-## Talleres y Actividades Adicionales
+## 🚀 Talleres y Actividades Adicionales
 
 1. **Horas Libres y Talleres:**
    - Se podrán dictar talleres en horas libres o en horarios sin carga horaria.
@@ -60,6 +60,6 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
 2. **Contenidos del Taller:**
    - El taller incluirá temas como uso básico de la computadora, acercamiento a la terminal, configuración y uso de Visual Studio Code, control de versiones con GitHub, y programación web básica (HTML, CSS, JavaScript).
 
-## Conclusiones
+## 🎉 Conclusiones
 
 Este reglamento está sujeto a actualizaciones y ajustes según las necesidades de la institución. Se fomenta el buen uso de los recursos y la colaboración entre docentes y técnicos para garantizar un ambiente informático eficiente.

@@ -1,6 +1,8 @@
-# Notas para tics
+# 📂 Notas y Documentación
 
-## Documentación en Markdown
+Aquí se almacenan notas generales y documentación relacionada con el uso de recursos TICs.
+
+## 📋 Documentación en Markdown
 
 1. **Estructura de Procedimientos:**
    * Divide la documentación en secciones claras: introducción, materiales necesarios, pasos a seguir y conclusiones.
@@ -9,7 +11,7 @@
 
 ***
 
-## Gestión de Tareas con Trello
+## 📊 Gestión de Tareas con Trello
 
 1. Etiquetas en Trello:
     * Utiliza etiquetas para categorizar tareas, por ejemplo, "Hardware", "Software", "Problema de Contraseña", etc.
@@ -20,7 +22,7 @@
 
 ***
 
-## Base de Datos con MariaDB
+## 🎲 Base de Datos con MariaDB
 
 1. Tabla InventarioNotebooks:
     * Asegúrate de que la tabla esté creada correctamente.
@@ -31,7 +33,7 @@
 
 ***
 
-## Desarrollo Futuro
+## 🚀 Desarrollo Futuro
 
 1. Creación de Sitio Web:
     * Para un blog simple, puedes utilizar plataformas ya existentes como WordPress o considerar un generador de sitios estáticos si prefieres algo más ligero.
