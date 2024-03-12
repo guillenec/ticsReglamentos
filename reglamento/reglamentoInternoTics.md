@@ -88,6 +88,30 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
   - Se implementará una política de eliminación periódica de archivos en las carpetas compartidas para evitar la acumulación innecesaria de documentos.
   - Los archivos que no sean relevantes después de cierto tiempo serán eliminados para mantener un almacenamiento eficiente.
 
+## 📅 Calendario de Mantenimiento
+
+- Actualizaciones de Software:
+  - Se establecerá un calendario regular para las actualizaciones de software en los equipos de la institución, evitando interferir con las horas de clases.
+
+- Mantenimiento de Red:
+  - Los técnicos programarán mantenimientos de red planificados, comunicando con antelación a los usuarios posibles interrupciones de servicio.
+
+## 📋 Gestión de Proyectos
+
+- Herramientas de Gestión:
+  - Los técnicos utilizarán herramientas de gestión de proyectos para coordinar tareas y asignar responsabilidades de manera efectiva.
+
+- Reuniones Periódicas:
+  - Se establecerán reuniones periódicas para revisar el progreso de proyectos en curso y planificar nuevas iniciativas.
+
+## 🛠️ Herramientas y Scripts Personalizados
+
+- Almacenamiento en Repositorio:
+  - Los scripts de Bash y otras herramientas personalizadas serán almacenados en un repositorio dedicado para facilitar su acceso y mantenimiento.
+
+- Documentación de Scripts:
+  - Cada script deberá estar debidamente documentado, explicando su propósito y proporcionando ejemplos de uso.
+
 ## 🎉 Conclusiones
 
 Este reglamento está sujeto a actualizaciones y ajustes según las necesidades de la institución. Se fomenta el buen uso de los recursos y la colaboración entre docentes y técnicos para garantizar un ambiente informático eficiente.
