@@ -60,6 +60,34 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
 2. **Contenidos del Taller:**
    - El taller incluirá temas como uso básico de la computadora, acercamiento a la terminal, configuración y uso de Visual Studio Code, control de versiones con GitHub, y programación web básica (HTML, CSS, JavaScript).
 
+## 🛠️ Mantenimiento de Equipos y Limpieza
+
+- Frecuencia de Limpieza:
+  - Se realizará una limpieza general de las computadoras de escritorio cada dos meses.
+  - Los técnicos de sistemas coordinarán y acordarán un horario extracurricular para llevar a cabo esta tarea.
+
+- Herramientas Necesarias:
+  - Cada técnico de sistemas deberá traer sus propias herramientas, como un soplador, para la limpieza de equipos.
+  - La institución no posee herramientas, por lo que se espera que los técnicos cuenten con su propio equipo.
+
+- Cambio de Pasta Térmica:
+  - El cambio de pasta térmica se realizará de manera semestral para garantizar el rendimiento óptimo de los equipos.
+  - Se acordará un horario adecuado para llevar a cabo esta tarea, considerando los horarios de trabajo de ambos técnicos.
+
+## 📊 Gestión de Contenido en Redes Sociales
+
+- Recepción de Materiales:
+  - Los docentes proporcionarán materiales para ser publicados en las redes sociales de la institución.
+  - Se sugiere utilizar carpetas compartidas en Google Drive para la entrega eficiente de estos materiales.
+
+- Tiempo de Publicación:
+  - Se establecerá un horario regular para la publicación de contenidos en las redes sociales.
+  - Los técnicos de sistemas coordinarán y planificarán las publicaciones para evitar saturar los canales.
+
+- Política de Eliminación:
+  - Se implementará una política de eliminación periódica de archivos en las carpetas compartidas para evitar la acumulación innecesaria de documentos.
+  - Los archivos que no sean relevantes después de cierto tiempo serán eliminados para mantener un almacenamiento eficiente.
+
 ## 🎉 Conclusiones
 
 Este reglamento está sujeto a actualizaciones y ajustes según las necesidades de la institución. Se fomenta el buen uso de los recursos y la colaboración entre docentes y técnicos para garantizar un ambiente informático eficiente.

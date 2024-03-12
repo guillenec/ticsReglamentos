@@ -15,5 +15,6 @@
 2. [Notas y Documentación](./notas-y-documentacion/notaas1.md)
 3. [Reglamento Interno TICs](reglamento/reglamentoInternoTics.md)
 4. [Scripts y Automatizaciones](scripts/)
+5. [Utilidades Para Docentes y Tics](./recursosProgramas/utilidades.md)
 
 ***
