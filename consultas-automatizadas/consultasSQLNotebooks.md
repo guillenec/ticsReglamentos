@@ -1,6 +1,8 @@
-# Documentacion consultas AUTOMATIZADAS
+# 📂 consultas AUTOMATIZADAS
 
-## Creacion de consultas
+En esta sección, encontrarás documentación sobre consultas SQL automatizadas para gestionar el inventario de notebooks.
+
+## ✨ Creación de Consultas
 
 * trae las compus disponibles
 
@@ -31,7 +33,7 @@
   MariaDB [esrn6_tics]> DELIMITER ;
   ```
 
-## Probando las consultas Automatizadas
+## 🛠 Probando las Consultas Automatizadas
 
 * traemos las prestadas:
 
@@ -92,7 +94,7 @@ MariaDB [esrn6_tics]> call ObtenerCompusPorEstado('disponible');
 
 ```
 
-## Creación de un Procedimiento Almacenado para Registrar un Préstamo
+## 📄 Creación de Procedimientos Almacenados para Registrar un Préstamo
 
 * creacion
 
@@ -154,7 +156,7 @@ Este procedimiento realiza las siguientes acciones:
   2 rows in set (0,001 sec)
   ```
 
-## Creación de un Procedimiento Almacenado para Devolver un Préstamo
+## 📄 Creación de Procedimientos Almacenado para Devolver un Préstamo
 
 * creacion:
 
