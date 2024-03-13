@@ -4,7 +4,7 @@
 
 El presente reglamento tiene como objetivo establecer normas y procedimientos para el uso adecuado de los recursos informáticos y electrónicos en la institución educativa, garantizando su correcto funcionamiento y disponibilidad para todos los usuarios.
 
-## 📝 Prestamos de Notebooks
+## 📝 Prestamos de Notebooks y suministros de TI
 
 1. **Responsabilidad:**
    - Los docentes serán responsables de solicitar y gestionar el préstamo de notebooks en nombre de los alumnos.
@@ -17,6 +17,7 @@ El presente reglamento tiene como objetivo establecer normas y procedimientos pa
 3. **Devolución:**
    - La devolución de las notebooks debe realizarse antes del final del horario de los técnicos de sistemas (tics).
    - En caso de no devolver los recursos a tiempo, el docente se hará responsable y deberá comunicarse con los técnicos para coordinar la devolución.
+   - Si no se localiza el equipo Tic's para su devolución, se debe aguardar hasta que esté disponible, evitando que personal no autorizado tenga acceso al mismo.
 
 4. **Excepciones:**
    - Se podrán considerar excepciones para casos especiales, debidamente justificados, previa autorización del director o coordinador.
