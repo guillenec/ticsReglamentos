@@ -16,5 +16,6 @@
 3. [Reglamento Interno TICs](reglamento/reglamentoInternoTics.md)
 4. [Scripts y Automatizaciones](scripts/)
 5. [Utilidades Para Docentes y Tics](./recursosProgramas/utilidades.md)
+6. [Proyector Acer Linux](./proyectorAcer/usoProyector.md)
 
 ***
