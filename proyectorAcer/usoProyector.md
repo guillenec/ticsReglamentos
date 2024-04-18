@@ -73,3 +73,47 @@ git clone https://github.com/slavrn/gm12u320.git
      update-initramfs -u
 
     ```
+
+## damos permiso de ejecucion a los archivos fbplay y fbclone (esto permite ejecutarlos como programas)
+
+📓Nota: obiamente tenemos que estar dentro del repo que clonqmos
+
+* ruta repo:
+
+    ```bash
+    administrador@conectarigualdad  ~/gm12u320   master  pwd
+    /home/administrador/gm12u320
+    administrador@conectarigualdad  ~/gm12u320   master  ls   
+    etc         gm12u320.ko     INSTALL          modules.   order   USAGE
+    fbclone     gm12u320.mod.c  INSTALL.spanish  Module.    symvers  USAGE.spanish
+    fbplay      gm12u320.mod.o  LICENSE          README
+    gm12u320.c  gm12u320.o      Makefile         README.    spanish
+    administrador@conectarigualdad  ~/gm12u320   master  
+    ```
+
+* Damos permisos
+
+    ```bash
+    chmod +x fbplay
+    chmod +x fbclone
+    ```
+
+## Utilizacion manual
+
+📓Nota: siempre estaremos de momento dentro del repo clonado:
+
+* directorio en el que estamos parados
+
+```bash
+  administrador@conectarigualdad  ~/gm12u320   master  pwd
+/home/administrador/gm12u320
+```
+
+* Para averiguar cuál es el dispositivo framebuffer (dispositivo_fb) que corresponde al proyector Acer C120 en tu sistema, puedes seguir estos pasos:
+
+* forma de reproducir un video en el proyector
+
+```bash
+pwd
+./fbplay /direccion/al/archivo/video.avi [/dirección/al/dispositivo_fb]
+```
