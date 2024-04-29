@@ -17,6 +17,6 @@
 4. [Scripts y Automatizaciones](scripts/)
 5. [Utilidades Para Docentes y Tics](./recursosProgramas/utilidades.md)
 6. [Instalacion de paquetes y dependencias](./instalaciones/index.md)
-7. [Guias Tics reparacion](./guiasReparacion)
+7. [Guias Tics reparacion](./guiasReparacion/index.md)
 
 ***
