@@ -6,3 +6,4 @@
 
 1. [Instalacion phpMyAdmin](./instal_phpmyadmin/install-phpMyadmin.md)
 2. [Instalar configurar proyector Acer c120](./proyectorAcer/usoProyector.md)
+3. [Instalacion kdenlive](./kdenlive/install-kdenlive.md)
