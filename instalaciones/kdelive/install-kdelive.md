@@ -63,7 +63,4 @@ Se deja link a la pagina oficial, donde se detalla las diferentes formas y para 
 
 ### Video Instal Uso Basico
 
-<video controls width="500" margin="auto">
-  <source src="url_del_video.mp4" type="video/mp4">
-  Tu navegador no admite la reproducción de videos.
-</video>
+[![Video Instal Uso Basico](https://img.youtube.com/vi/mYJ-QH_aXCU/0.jpg)](https://www.youtube.com/watch?v=mYJ-QH_aXCU)
