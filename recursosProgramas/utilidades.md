@@ -18,7 +18,7 @@ Kahoot! es una plataforma gratuita que permite la creación de cuestionarios de 
 
 2. [EducaPlay](https://es.educaplay.com/)
 Educaplay, es una plataforma web que le permite a los docentes crear diferentes tipos de actividades educativas multimedia, mediante diferentes escenarios o actividades tales como crucigramas, sopa de letras, adivinanzas, dictados, entre otras.
-![educaplay](https://res.cloudinary.com/dpiwmbsog/image/upload/v1718716100/esrn6/ddukrymq0tme0cq8xfo4.png)
+![educaplay](https://res.cloudinary.com/dpiwmbsog/image/upload/v1718799065/esrn6/vvrh2seyelnzcieukmry.png)
 
 ***
 
