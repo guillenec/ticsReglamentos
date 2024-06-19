@@ -8,6 +8,19 @@ Almacenamiento gratuito, imagenes musica y demas, permite dar links publicos y u
 
 ***
 
+## Juegos - Preguntas
+
+1. [Kahoot](https://kahoot.com/)
+Kahoot! es una plataforma gratuita que permite la creación de cuestionarios de evaluación. Es una herramienta por la que el profesor crea concursos en el aula para aprender o reforzar el aprendizaje y donde los alumnos son los concursantes.
+
+![kahoot](https://res.cloudinary.com/dpiwmbsog/image/upload/v1718716100/esrn6/ddukrymq0tme0cq8xfo4.png)
+
+2. [educaPlay](https://es.educaplay.com/)
+Educaplay, es una plataforma web que le permite a los docentes crear diferentes tipos de actividades educativas multimedia, mediante diferentes escenarios o actividades tales como crucigramas, sopa de letras, adivinanzas, dictados, entre otras.
+![educaplay]()
+
+***
+
 ## PDF Resumenes
 
 1. [popai](https://www.popai.pro)  
@@ -48,6 +61,10 @@ PromptHero es una herramienta de búsqueda de imágenes que emplea modelos de IA
 4. [runway](https://app.runwayml.com)
 Runway (disponible en runwayml.com) es una plataforma generadora de contenidos que combinan video, voz y una gran variedad de formatos, con la ayuda de Inteligencia Artificial.
 ![runway](https://res.cloudinary.com/dpiwmbsog/image/upload/v1709906187/esrn6/runway_urphhl.webp)
+
+5. [pixelart](https://es.pixilart.com/)
+Pixilart es una comunidad de entusiastas del arte apasionados que disfrutan de los píxeles. Cree fácilmente arte de píxeles, y luego comparta su arte e incluso siga a otros que han creado sus propias creaciones de arte de píxeles.
+![pixelart](https://res.cloudinary.com/dpiwmbsog/image/upload/v1718715646/esrn6/zoryguk61e0opcsioslh.png)
 
 ***
 
