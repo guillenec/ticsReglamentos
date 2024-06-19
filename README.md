@@ -18,6 +18,6 @@
 5. [Utilidades Para Docentes y Tics](./recursosProgramas/utilidades.md)
 6. [Instalacion de paquetes y dependencias](./instalaciones/index.md)
 7. [Guias Tics reparacion](./guiasReparacion/index.md)
-8. [Tutoriales](./tutoriales/kahoot/tutoriaKahoot.md)
+8. [Tutoriales](./tutoriales/tutoriales.md)
 
 ***
