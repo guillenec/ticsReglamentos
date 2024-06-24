@@ -10,3 +10,4 @@
 4. [Configuracion Pizarra Digital](./pizarraDigital/pizarraDigital.md)
 5. [instalar tienda snap + lanzador](./lanzadores_personalizados/lanzadores_personalizados.md)
 6. [instalacion scrcpy](./instalar_scrcpy/instalar_scrcpy.md)
+7. [instalar droidcam](./instalar_droidcam/instalar_droidcam.md)

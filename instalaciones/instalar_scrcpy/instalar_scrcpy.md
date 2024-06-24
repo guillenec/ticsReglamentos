@@ -117,7 +117,3 @@ Esto abrirá una ventana en tu PC mostrando la pantalla de tu Android, permitié
 ## Conclusión
 
 ¡Y eso es todo! Ahora puedes usar `scrcpy` para reflejar y controlar tu dispositivo Android desde tu PC con Archcraft. Si tienes alguna pregunta o encuentras algún problema, no dudes en buscar ayuda en la [documentación oficial de `scrcpy`](https://github.com/Genymobile/scrcpy).
-
----
-
-¡Espero que este documento te sea útil! Si necesitas más ayuda o información, estoy aquí para asistirte.
