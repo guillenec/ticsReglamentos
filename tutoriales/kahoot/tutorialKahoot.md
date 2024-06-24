@@ -13,7 +13,7 @@ Kahoot es una plataforma interactiva que permite a los docentes crear cuestionar
 
 Además, proporcionaremos ejemplos específicos para materias como desarrollo web y tecnología, así como para filosofía, arte, ciencias sociales y naturales.
 
-**📝Nota:** Link video tutorial privado :[Tutorial tics kahoot simple](https://youtu.be/gdnjjulfoH8)
+**📝Nota:** Link video tutorial privado :[Tutorial tics kahoot simple](https://youtu.be/AvzQzijxn_8)
 
 ## 1. Crear una Cuenta en Kahoot
 
@@ -137,4 +137,4 @@ Usar Kahoot en el aula puede hacer que el aprendizaje sea más interactivo y div
 
 ## Link video tutorial privado
 
-[Tutorial tics kahoot simple](https://youtu.be/gdnjjulfoH8)
+[Tutorial tics kahoot simple](https://youtu.be/AvzQzijxn_8)
