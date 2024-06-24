@@ -167,6 +167,55 @@ Habilitar Opciones de Desarrollador
   Verás un mensaje indicando que estás a punto de habilitar las opciones de desarrollador. Sigue tocando hasta que recibas un mensaje notificando que ahora eres desarrollador. Si ya eres desarrollador, verás un mensaje que indica que ya eres desarrollador.
 - Toca la flecha hacia atrás una vez hayas terminado y aparecerá Opciones de desarrollo en Ajustes.
 
+## Especificar el Dispositivo Correcto en ADB
+
+- Listar Dispositivos Conectados
+
+```bash
+adb devices
+```
+
+- Establecer el Dispositivo por Defecto
+
+```bash
+export ANDROID_SERIAL=ZE222NL677
+```
+
+### Ejecutar DroidCam con el Dispositivo Especificado
+
+```bash
+droidcam-cli adb 4747
+
+```
+
+### Ejecutar Scrcpy con el Dispositivo Específico
+
+```bash
+scrcpy -s ZE222NL677
+```
+
+### Ejemplo Completo
+
+```bash
+# Listar dispositivos conectados
+adb devices
+
+# Salida esperada:
+# List of devices attached
+# ZE222NL677 device
+# ZY227KQKCD device
+
+# Establecer el dispositivo por defecto
+export ANDROID_SERIAL=ZE222NL677
+
+# Ejecutar DroidCam
+droidcam-cli adb 4747
+
+# Ejecutar Scrcpy especificando el dispositivo
+scrcpy -s ZE222NL677
+
+```
+
 ## Conclusión
 
 Siguiendo estos pasos, deberías poder instalar y configurar DroidCam en Archcraft, incluyendo la configuración del modo HD. Si continúas teniendo problemas, asegúrate de que todas las dependencias están instaladas y actualizadas.
