@@ -19,5 +19,6 @@
 6. [Instalacion de paquetes y dependencias](./instalaciones/index.md)
 7. [Guias Tics reparacion](./guiasReparacion/index.md)
 8. [Tutoriales](./tutoriales/tutoriales.md)
+9. [Documentos](./documentos/index.md)
 
 ***

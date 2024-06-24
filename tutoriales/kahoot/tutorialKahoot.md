@@ -132,3 +132,7 @@ Kahoot también puede ser utilizado para realizar evaluaciones formativas y suma
 ## Conclusión
 
 Usar Kahoot en el aula puede hacer que el aprendizaje sea más interactivo y divertido, además de ser una excelente herramienta para evaluaciones. Con la ayuda de ChatGPT, puedes crear contenido educativo de alta calidad de manera eficiente y exportar los resultados para un análisis más detallado. ¡Esperamos que esta guía te sea útil y que disfrutes usando Kahoot con tus estudiantes! 🎉
+
+## Link video tutorial privado
+
+[Tutorial tics kahoot simple]()
