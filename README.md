@@ -14,11 +14,11 @@
 1. [Consultas Automatizadas](./consultas-automatizadas/consultasSQLNotebooks.md)
 2. [Notas y Documentación](./notas-y-documentacion/notaas1.md)
 3. [Reglamento Interno TICs](reglamento/reglamentoInternoTics.md)
-4. [Scripts y Automatizaciones](scripts/)
+4. [Scripts y Automatizaciones](scripts/scripts.md)
 5. [Utilidades Para Docentes y Tics](./recursosProgramas/utilidades.md)
-6. [Instalacion de paquetes y dependencias](./instalaciones/index.md)
+6. [Instalacion de paquetes y dependencias](./instalaciones/instalaciones.md)
 7. [Guias Tics reparacion](./guiasReparacion/index.md)
 8. [Tutoriales](./tutoriales/tutoriales.md)
-9. [Documentos](./documentos/index.md)
+9. [Documentos](./documentos/documentos.md)
 
 ***
