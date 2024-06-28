@@ -5,3 +5,4 @@
 ## 📋🛠️ Contenido
 
 1. [kahoot](./kahoot/tutorialKahoot.md)
+2. [activar canvas docente](./canvasDocente/canvasDocente.md)
