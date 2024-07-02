@@ -122,4 +122,4 @@ yt-dlp -x --audio-format mp3 "https://www.youtube.com/watch?v=9S4wZqhKMHk"
 
 ## 🎬🎧 Guia en video
 
-[Guia en video - descargar audio y video](https://youtu.be/LEDmKFR7baM)
+[Guia en video - descargar audio y video](https://mega.nz/file/GJQnlCiD#BavheeiuqPBmo7F2LaI7XPZ7dcgs0hnUFE0Kb-xXaDo)
