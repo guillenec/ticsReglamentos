@@ -120,6 +120,6 @@ yt-dlp -x --audio-format mp3 "https://www.youtube.com/watch?v=9S4wZqhKMHk"
     sudo pacman -S ffmpeg
     ```
 
-## guia en video
+## 🎬🎧 Guia en video
 
-[guia en video descarga videos]()
+[Guia en video - descargar audio y video](https://youtu.be/LEDmKFR7baM)
