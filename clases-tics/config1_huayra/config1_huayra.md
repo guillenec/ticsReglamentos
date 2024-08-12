@@ -172,6 +172,32 @@ Si prefieres seguir utilizando tu entorno anterior (MATE), selecciónalo en la m
 
 Ahora podrás elegir entre tu entorno de escritorio actual y el nuevo cada vez que inicies sesión en tu sistema.
 
+## estaremos en gnome, pero esta en blanco, deemos modificarlo
+
+1. abrimos retoques
+  este nos permite aplicar los temas que ya tenemos instalados, los iconos, y demas.
+2. caso no este inastalado , proedemos a instalarlo:
+
+    ```bash
+     administrador@conectarigualdad  ~  sudo apt install retoques
+    ```
+
+    o vamos a inicio, ecribimos software y buscamos retoques
+
+3. instalamos extenciones necesarias:
+
+    ```bash
+    sudo apt install gnome-shell-extensions chrome-gnome-shell
+    ```
+
+4. Luego vamos a gnome extencion:
+
+    [gnome extencion](https://extensions.gnome.org/)
+
+* aca podemos instalar extenciones y utilidades, como es el caso de dash-to-dock, que nos permitira instalar un panel inferior.
+
+* luego desde retoques --> extenciones: podemos configurar las extenciones acorde a nuestro gusto.
+
 ## distros linux
 
 * [distros linux](https://es.wikipedia.org/wiki/Anexo:Distribuciones_Linux)
