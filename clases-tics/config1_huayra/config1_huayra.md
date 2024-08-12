@@ -198,6 +198,10 @@ Ahora podrás elegir entre tu entorno de escritorio actual y el nuevo cada vez q
 
 * luego desde retoques --> extenciones: podemos configurar las extenciones acorde a nuestro gusto.
 
+## descargamos walppapers
+
+[alphacoders](https://wall.alphacoders.com/big.php?i=996764)
+
 ## distros linux
 
 * [distros linux](https://es.wikipedia.org/wiki/Anexo:Distribuciones_Linux)
