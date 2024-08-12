@@ -1,8 +1,8 @@
 # 📚 Guía para Activar Canva para Educación
 
-## guia en video
+## 🇳🇷 guia en video
 
-[guia canvas activar docene](ww)
+[guia canvas activar docene]()
 
 ## 🌟 Introducción
 
