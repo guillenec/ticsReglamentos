@@ -113,7 +113,64 @@ NOTA: [personaliza huayra linux](https://huayra.educar.gob.ar/primeros-pasos/)
 
 ## cambiamos el entorno de ventanas
 
-* para ello usaremos usaremos **tasksel**
+Esta guía te mostrará cómo instalar un nuevo entorno de escritorio en Huayra Linux utilizando `tasksel`, sin eliminar el entorno actual que estás utilizando. Además, mantendremos `lightdm` como el gestor de sesiones predeterminado para garantizar una experiencia consistente.
+
+para ello usaremos usaremos **tasksel**
+
+### 1. Instalar `tasksel`
+
+`tasksel` es una herramienta que facilita la instalación de grupos completos de paquetes. Si no lo tienes instalado, sigue estos pasos:
+
+1. Abre una terminal.
+2. Ejecuta el siguiente comando para instalar `tasksel`:
+
+   ```bash
+   sudo apt-get install tasksel
+
+### Ejecutar tasksel
+
+Una vez que tasksel esté instalado, puedes usarlo para instalar un nuevo entorno de escritorio.
+
+```bash
+sudo tasksel
+```
+
+Se abrirá una interfaz en modo texto que te permitirá seleccionar diferentes tareas para instalar.
+
+**Seleccionar un Nuevo Entorno de Escritorio En la interfaz de tasksel, sigue estos pasos:**
+
+1. Desplázate por la lista de tareas usando las teclas de flecha hasta encontrar el entorno de escritorio que deseas instalar, como **GNOME, KDE, XFCE**, u otro.
+Usa la tecla Espacio para seleccionar el entorno de escritorio que quieres instalar.
+Una vez seleccionado, presiona Enter para comenzar la instalación.
+tasksel se encargará de instalar todos los paquetes necesarios para el nuevo entorno de escritorio.
+
+2. Configuración del Gestor de Sesiones
+Durante la instalación, se te pedirá que elijas un gestor de sesiones predeterminado. Se te dará la opción entre **gdm3 y lightdm**.
+
+Selecciona **lightdm** como el gestor de sesiones predeterminado. Esto asegurará que mantengas una experiencia consistente y ligera con tu entorno de escritorio actual (MATE).
+
+Si en algún momento decides cambiar el gestor de sesiones, puedes hacerlo más adelante utilizando:
+
+```bash
+sudo dpkg-reconfigure lightdm
+```
+
+### Reiniciar el Sistema
+
+Una vez que la instalación haya terminado, es necesario reiniciar el sistema para aplicar los cambios:
+
+```bash
+sudo reboot
+```
+
+1. Seleccionar el Entorno de Escritorio
+Después de reiniciar tu computadora:
+
+En la pantalla de inicio de sesión, antes de ingresar tu contraseña, busca una opción que te permita **elegir el entorno de escritorio**.
+Selecciona el entorno de escritorio que acabas de instalar.
+Si prefieres seguir utilizando tu entorno anterior (MATE), selecciónalo en la misma pantalla.
+
+Ahora podrás elegir entre tu entorno de escritorio actual y el nuevo cada vez que inicies sesión en tu sistema.
 
 ## distros linux
 
