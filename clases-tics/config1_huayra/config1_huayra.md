@@ -107,6 +107,14 @@ NOTA: [personaliza huayra linux](https://huayra.educar.gob.ar/primeros-pasos/)
 
  **NOTA** en teoria esta carpeta es un link simbolico hacia /usr/share/hemes, tambien puedo copiarlos directamente aca .
 
+  1. luego solo deberiamos abrir el menu de configuraciones:
+  2. En huayra hacemos clic derecho sobre el escritorio seleccionamos cambiar fondo d eecritorio.
+  3. vamos donde dice temas y ya comenzamos a modificar, cambiar el tema manualmente.. si hacemos clic en personalizar podremos cambiar el paquete de icono.
+
+## cambiamos el entorno de ventanas
+
+* para ello usaremos usaremos **tasksel**
+
 ## distros linux
 
 * [distros linux](https://es.wikipedia.org/wiki/Anexo:Distribuciones_Linux)
@@ -136,7 +144,7 @@ NOTA: las siguientes son paginas donde ver entornos:
 * [arch](https://archlinux.org/)
 * [archcraft](https://archcraft.io/)
 
-# entornos personalizados por la comunidad
+## Etornos personalizados por la comunidad
 
 * [Zlcube kali bspwn](https://github.com/ZLCube/KaliBspwm)
 * [dotfile](https://github.com/gh0stzk/dotfiles)
