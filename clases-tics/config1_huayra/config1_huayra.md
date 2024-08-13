@@ -1,3 +1,4 @@
+
 # Procedimiento de configuracion de huayra linux
 
 ## veificar entorno de ventanas
@@ -202,6 +203,10 @@ Ahora podrás elegir entre tu entorno de escritorio actual y el nuevo cada vez q
 
 [alphacoders](https://wall.alphacoders.com/big.php?i=996764)
 
+## que es linux
+
+[que es linux](https://ed.team/blog/que-es-linux-495b9964-a661-46a4-9e80-e3267e932f0b)
+
 ## distros linux
 
 * [distros linux](https://es.wikipedia.org/wiki/Anexo:Distribuciones_Linux)
@@ -236,3 +241,7 @@ NOTA: las siguientes son paginas donde ver entornos:
 * [Zlcube kali bspwn](https://github.com/ZLCube/KaliBspwm)
 * [dotfile](https://github.com/gh0stzk/dotfiles)
 * [zprogrer bspwn](https://github.com/Zproger/bspwm-dotfiles)
+
+## estructura de directorios
+
+* [estructura de directorios](https://itsfoss.com/es/estructura-directorios-linux/)
