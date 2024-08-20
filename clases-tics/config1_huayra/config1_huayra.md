@@ -127,6 +127,9 @@ para ello usaremos usaremos **tasksel**
 
    ```bash
    sudo apt-get install tasksel
+   ```
+
+   ![tasksel1](./tasksel.png)
 
 ### Ejecutar tasksel
 
@@ -138,15 +141,20 @@ sudo tasksel
 
 Se abrirá una interfaz en modo texto que te permitirá seleccionar diferentes tareas para instalar.
 
+![tasksel2](./tasksel2.png)
+
 **Seleccionar un Nuevo Entorno de Escritorio En la interfaz de tasksel, sigue estos pasos:**
 
 1. Desplázate por la lista de tareas usando las teclas de flecha hasta encontrar el entorno de escritorio que deseas instalar, como **GNOME, KDE, XFCE**, u otro.
 Usa la tecla Espacio para seleccionar el entorno de escritorio que quieres instalar.
 Una vez seleccionado, presiona Enter para comenzar la instalación.
-tasksel se encargará de instalar todos los paquetes necesarios para el nuevo entorno de escritorio.
+tasksel se encargará de instalar todos los paquetes necesarios para el nuevo entorno de escritorio.  
+![tasksel3](./tasksel3.png)
 
 2. Configuración del Gestor de Sesiones
 Durante la instalación, se te pedirá que elijas un gestor de sesiones predeterminado. Se te dará la opción entre **gdm3 y lightdm**.
+
+![entorno de sesiones](./tasksel5.png)
 
 Selecciona **lightdm** como el gestor de sesiones predeterminado. Esto asegurará que mantengas una experiencia consistente y ligera con tu entorno de escritorio actual (MATE).
 
@@ -196,6 +204,7 @@ Ahora podrás elegir entre tu entorno de escritorio actual y el nuevo cada vez q
     [gnome extencion](https://extensions.gnome.org/)
 
 * aca podemos instalar extenciones y utilidades, como es el caso de dash-to-dock, que nos permitira instalar un panel inferior.
+![dashToDock](./gnomeLook.png)
 
 * luego desde retoques --> extenciones: podemos configurar las extenciones acorde a nuestro gusto.
 
