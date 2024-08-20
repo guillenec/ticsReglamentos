@@ -8,6 +8,31 @@ echo $XDG_CURRENT_DESKTOP
 
 ## instalar fuentes
 
+1. Donde se guardan las fuentes en linux
+
+2. Algunas Fuentes:
+
+<div style="display: flex; justify-content: center; align-items: center; align-content: center; gap: 10px; padding: 10px; flex-wrap: wrap;">
+  <div
+      style="width: 400px; height: 250px; border-radius: 4px; border:1px solid; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 5px; gap: 5px;">
+      <h2>JetBrain</h2>
+      <img src="./jetBrains.png" alt="fuente" height="150">
+      <a href="https://www.nerdfonts.com/">jetBrains fuente</a>
+  </div>
+  <div
+      style="width: 400px;  height: 250px; border-radius: 4px; border:1px solid; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 5px; gap: 5px;">
+      <h2>NerdFont</h2>
+      <img src="./nerdFonts.png" alt="fuente" height="150">
+      <a href="https://www.nerdfonts.com/">nerdFonts fuente</a>
+  </div>
+  <div
+      style="width: 400px;  height: 250px; border-radius: 4px; border:1px solid; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 5px; gap: 5px;">
+      <h2>Google Fonts</h2>
+      <img src="./googleFonts.png" alt="fuente" height="150">
+      <a href="https://www.nerdfonts.com/">Google Fonts</a>
+  </div>
+</div>
+
 * copiamos la fuente al directorio de fuentes del sistema
 
  ```bash
