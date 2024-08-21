@@ -282,3 +282,11 @@ NOTA: las siguientes son paginas donde ver entornos:
 ## estructura de directorios
 
 * [estructura de directorios](https://itsfoss.com/es/estructura-directorios-linux/)
+
+## Archs
+
+![arch](./archs/280186158-e14c6777-25f6-4621-a88b-4fda71dbcc7f.gif)
+![arch2](./archs/280186238-ff65caa8-6a15-4873-bf05-edf89ac0985d.gif)
+![arch3](./archs/main.png)
+![arch4](./archs/345455292-2d55fcc6-1ea4-4d56-8c46-3a3fe10566fe.gif)
+![arch5](./archs/345467298-cbb0a1cc-4e2d-46a2-a4f2-ee0be3d08b50.gif)
