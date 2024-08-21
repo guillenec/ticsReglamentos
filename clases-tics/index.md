@@ -1,3 +1,4 @@
 # recursos alumnos 1er año
 
-[configuracion basica huayra](./config1_huayra/config1_huayra.md)
+1. [configuracion basica huayra](./config1_huayra/config1_huayra.md)
+2. [personalizar terminal huayra](./terminal/terminal_personalizada.md)
