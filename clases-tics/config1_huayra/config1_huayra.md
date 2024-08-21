@@ -57,6 +57,9 @@ echo $XDG_CURRENT_DESKTOP
 
 * Descargar y Copiar Temas compatibles (gtk3):
  Descarga temas compatibles con MATE desde sitios como Gnome-look.org.
+[gnome-look.org](https://www.gnome-look.org/browse/)
+![gnome look](./gnome%20look.png)
+
  Copia el tema descargado al directorio de temas:
 
  ```bash
