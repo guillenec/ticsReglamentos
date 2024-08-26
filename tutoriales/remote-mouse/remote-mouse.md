@@ -102,7 +102,7 @@
 - Descargamos y mobemos el icono a usar a la carpeta icons
 
 ```bash
-cp icono.png /usr/share/icons
+cp icono.png /usr/share/remotemouse.png
 ```
 
 - creamos el archivo lanzador
@@ -122,7 +122,7 @@ Version=1.0
 Name=RemoteMouse
 Comment=Start RemoteMouse
 Exec=nohup /home/administrador/Descargas/remoteMouse/RemoteMouse_x86_64/RemoteMouse > /dev/null 2>&1 &
-Icon=/home/administrador/Descargas/remoteMouse/remotemouse.png
+Icon=/usr/share/iconse/remotemouse.png
 Terminal=false
 Type=Application
 Categories=Utility;Application;
