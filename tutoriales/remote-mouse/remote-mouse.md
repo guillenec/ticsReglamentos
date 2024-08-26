@@ -102,7 +102,7 @@
 - Descargamos y mobemos el icono a usar a la carpeta icons
 
 ```bash
-cp icono.png /usr/share/remotemouse.png
+cp icono.png /usr/share//remotemouse.png
 ```
 
 - creamos el archivo lanzador
@@ -117,7 +117,7 @@ nano ~/.local/share/applications/remotemouse.desktop
 ```bash
 [Desktop Entry]
 Version=1.0
-Name=RemoteMouse[Desktop Entry]
+Name=RemoteMouse
 Version=1.0
 Name=RemoteMouse
 Comment=Start RemoteMouse
