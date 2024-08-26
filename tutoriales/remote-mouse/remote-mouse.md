@@ -99,6 +99,35 @@
 
 ## 9. **Opcional: Crear un Atajo para Iniciar RemoteMouse**
 
+- Descargamos y mobemos el icono a usar a la carpeta icons
+
+```bash
+cp icono.png /usr/share/icons
+```
+
+- creamos el archivo lanzador
+
+```bash
+nano ~/.local/share/applications/remotemouse.desktop
+
+```
+
+- Contenido del archivo:
+
+```bash
+[Desktop Entry]
+Version=1.0
+Name=RemoteMouse[Desktop Entry]
+Version=1.0
+Name=RemoteMouse
+Comment=Start RemoteMouse
+Exec=nohup /home/administrador/Descargas/remoteMouse/RemoteMouse_x86_64/RemoteMouse > /dev/null 2>&1 &
+Icon=/home/administrador/Descargas/remoteMouse/remotemouse.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+```
+
 - Puedes crear un script de inicio rápido para ejecutar RemoteMouse automáticamente:
 
    ```bash
