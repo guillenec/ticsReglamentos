@@ -7,3 +7,5 @@ Este documento establece las condiciones para el préstamo de computadoras de la
 ## 2. [Reglas APA ESRN Número 6](./reglasApa/reglasApa.md)
 
 Este documento proporciona una guía sobre cómo formatear trabajos escritos según las normas APA (American Psychological Association).
+
+## 3. [Planilla Sala Tics](./planillaSalaTics/planillaSalaTics.md)
