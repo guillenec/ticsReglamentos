@@ -8,3 +8,4 @@
 2. [Activar canvas docente](./canvasDocente/canvasDocente.md)
 3. [guia descarga musica y peliculas](./descargarVideos/descargarVideos.md)
 4. [remote mouse](./remote-mouse/remote-mouse.md)
+5. [Guia planilla seguimiento docente](./seguimientoDocente/seguimientoDocente.md)
