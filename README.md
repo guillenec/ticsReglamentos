@@ -20,6 +20,7 @@
 7. [Guias Tics reparacion](./guiasReparacion/index.md)
 8. [Tutoriales](./tutoriales/tutoriales.md)
 9. [Documentos](./documentos/documentos.md)
-10. [tutoriales classes 1ro](./clases-tics/index.md)
+10. [tutoriales classes 2do TM](./clases-tics_2do/index.md)
+11. [tutoriales classes 1ro TM](./clases-tics_1ro/index.md)
 
 ***
